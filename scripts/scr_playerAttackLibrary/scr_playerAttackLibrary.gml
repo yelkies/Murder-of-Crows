@@ -16,7 +16,7 @@ function GetMoveset(_name, _combo)
 		"LH": {name:"LightHeavy1", dmg:8, anim:spr_plaho_5, hb:_cha},
 		"DL": {name:"DashLight1", dmg:10, anime:spr_plaho_6, hb:_cha},
 		"LLL" : {name:"Light3",	dmg:5, anim:_cha + "_attack_L3", hb:_cha + "_attack_L3_hb"},
-		"LLHH": {}
+		"LLHH": {name:"Uppercut", dmg:10}
 		}
 		
 	var _eins_moveset = {
